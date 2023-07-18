@@ -1,0 +1,37 @@
+/* *{
+     margin: 0px;
+     padding: 0px;
+} */
+body{
+     background-color: #100c07;
+}
+section{
+     float: left;
+     width: 60%;
+     margin: 200px 50px;
+}
+img{
+     float: right;
+     width: 30%;
+     margin-top: 150px;
+}
+
+h1{
+     color: #FFFFFF;
+     font-size: 60px;
+     margin: 0;
+}
+p{
+     color: #FFFFFF;
+     font-size: 16px;
+}
+button{
+     padding: 10px 25px;
+     margin-top: 20px;
+     border-radius: 5px;
+     border: 0;
+     font-weight: 700;
+     color: #ffffff;
+     font-size: 13px;
+     background-color: #5a4bda;
+}
