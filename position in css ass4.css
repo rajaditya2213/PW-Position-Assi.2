@@ -1,0 +1,54 @@
+body{
+     background-color: #242b2e;
+     padding: 0px 200px;
+}
+.course-offer{
+     height: 60px;
+     width: 800px;
+     color: #000000;
+     background-color: #ff6666;
+     padding: 2px;
+     text-align: center;
+     top: 0;
+     position: sticky;
+
+}
+h3{
+     font-size: 18px;
+     text-align: center;
+
+}
+
+.section-one{
+     text-align:left;
+     margin-left: 20px;
+}
+ h1{
+     color: #E07C24;
+     font-size: 25px;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     margin: 20px 0px;
+     font-weight: 700;
+     text-align: center;
+}
+.section-one{
+     text-align: center;
+}
+
+.section-one > img{
+     width: 400px;
+     border-radius: 7%;
+     text-align: center;
+     margin: 0px 30px;
+}
+
+p{
+     font-size: 16px;
+     color: #ffffff;
+}
+h2{
+     color: #E07C24;
+     font-size: 25px;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     margin: 20px 0px;
+}

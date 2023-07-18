@@ -1,0 +1,37 @@
+body{
+     background-color:#758283;
+     font-weight: 500;
+}
+.modal{
+     background-color: #fff;
+     width: 700px;
+     position: absolute;
+     border: 0;
+     margin: auto;
+     padding: 10px;
+     top: 10px;
+     left: 20%;
+}
+
+h3{
+     text-align: center;
+     font-size: 25px;
+}
+
+.modal-2{
+     height: 300px;
+     overflow-y: scroll;
+}
+.check{
+     margin: 10px 10px;
+}
+
+button{
+     margin: 0px 0px 20px;
+     padding: 10px 25px;
+     background-color: #5a4bda;
+     border-radius: 5px;
+     font-size: 16px;
+     border: 0;
+     color: #ffffff;
+}
